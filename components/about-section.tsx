@@ -15,32 +15,32 @@ export const teamMembers = [
   {
     id: 2,
     name: "Dr. Ahsan Rasheed",
-    role: "Co-Founder & Operations",
-    bio: "Ensures projects are delivered on time and within scope, managing the bridge between client needs and development.",
+    role: "Co-Founder",
+    bio: "Oversees strategic business initiatives and executive planning, bridging vision with execution.",
     imageUrl: "/co-founder.jpg",
     linkedinUrl: "https://www.linkedin.com/in/ahsan-rasheed-6b3342327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
   },
   {
     id: 3,
     name: "Saram Chatha",
-    role: "Head of Sales",
-    bio: "Your primary point of contact for new partnerships. Dedicated to finding the right digital fit for your business goals.",
+    role: "Head of Operations",
+    bio: "Ensures projects are delivered on time and within scope, managing the bridge between client needs and development.",
     imageUrl: "/saram.jpeg",
     linkedinUrl: "https://www.linkedin.com/in/saramchatha?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
   },
   {
     id: 4,
     name: "M.AbuBakar",
-    role: "Lead Web Architect",
-    bio: "Specializes in high-performance React and Next.js sites that rank high on Google and convert visitors into customers.",
+    role: "Head of Sales",
+    bio: "Your primary point of contact for new partnerships. Dedicated to finding the right digital fit for your business goals.",
     imageUrl: "/abubakar.jpeg",
     linkedinUrl: "https://www.linkedin.com/in/muhammad-abu-bakar-b94904311?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
   },
   {
     id: 5,
     name: "Muhammad Uzair",
-    role: "Lead Mobile Engineer",
-    bio: "Expert in Flutter and cross-platform mobile solutions, building seamless booking and management apps for iOS and Android.",
+    role: "Mobile and Web Architect",
+    bio: "Specializes in high-performance React, Next.js sites, and Flutter cross-platform mobile solutions for iOS and Android.",
     imageUrl: "/uzair.jpeg",
     linkedinUrl: "https://www.linkedin.com/in/muhammad-uzair-226257289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
   }

@@ -43,19 +43,19 @@ export default function FinTechPlatformPage() {
         {/* Key Metrics */}
         <div className="mb-12 grid grid-cols-2 gap-4 md:grid-cols-4">
           <div className="glass border-glow rounded-2xl p-4 text-center">
-            <div className="mb-2 text-2xl font-bold text-teal">99.99%</div>
+            <div className="mb-2 text-2xl font-bold text-teal">99.9%</div>
             <div className="text-xs text-muted-foreground">Uptime</div>
           </div>
           <div className="glass border-glow rounded-2xl p-4 text-center">
-            <div className="mb-2 text-2xl font-bold text-teal">2M+</div>
+            <div className="mb-2 text-2xl font-bold text-teal">15K+</div>
             <div className="text-xs text-muted-foreground">Transactions/Day</div>
           </div>
           <div className="glass border-glow rounded-2xl p-4 text-center">
-            <div className="mb-2 text-2xl font-bold text-teal">&lt;100ms</div>
+            <div className="mb-2 text-2xl font-bold text-teal">&lt;200ms</div>
             <div className="text-xs text-muted-foreground">Response Time</div>
           </div>
           <div className="glass border-glow rounded-2xl p-4 text-center">
-            <div className="mb-2 text-2xl font-bold text-teal">SOC 2</div>
+            <div className="mb-2 text-2xl font-bold text-teal">PCI DSS</div>
             <div className="text-xs text-muted-foreground">Compliant</div>
           </div>
         </div>
@@ -67,10 +67,10 @@ export default function FinTechPlatformPage() {
               Challenge
             </h2>
             <p className="leading-relaxed text-muted-foreground">
-              A leading financial institution needed to modernize their core banking platform 
-              to handle millions of daily transactions while maintaining strict security and 
-              regulatory compliance. The legacy system couldn't scale and was becoming a 
-              bottleneck for growth.
+              A microfinance institution in Pakistan needed a digital lending platform to 
+              process loan applications and disbursements. Their manual paper-based system 
+              was slow, error-prone, and couldn't scale with their growing customer base 
+              in rural areas.
             </p>
           </div>
 
@@ -124,14 +124,14 @@ export default function FinTechPlatformPage() {
               Results
             </h2>
             <p className="mb-4 leading-relaxed text-muted-foreground">
-              The platform now processes over 2 million transactions daily with 99.99% uptime. 
-              Response times average under 100ms, and the system scales automatically to handle 
-              traffic spikes. Security audits consistently pass with zero critical findings.
+              The platform now processes over 15,000 transactions daily with 99.9% uptime. 
+              Loan approval time reduced from 5 days to under 24 hours, enabling faster 
+              financial access to underserved communities.
             </p>
             <ul className="space-y-3 text-muted-foreground">
               <li className="flex items-start gap-3">
                 <span className="mt-1.5 h-1.5 w-1.5 rounded-full bg-teal" />
-                <span>50% reduction in transaction processing time</span>
+                <span>70% reduction in loan processing time</span>
               </li>
               <li className="flex items-start gap-3">
                 <span className="mt-1.5 h-1.5 w-1.5 rounded-full bg-teal" />
@@ -139,7 +139,7 @@ export default function FinTechPlatformPage() {
               </li>
               <li className="flex items-start gap-3">
                 <span className="mt-1.5 h-1.5 w-1.5 rounded-full bg-teal" />
-                <span>Seamless handling of 10x traffic growth</span>
+                <span>Rs. 50M+ disbursed through the platform monthly</span>
               </li>
             </ul>
           </div>

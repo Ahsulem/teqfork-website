@@ -3,10 +3,28 @@ import { ChevronRight } from "lucide-react";
 
 const CASE_STUDIES = [
   {
-    title: "FinTech Platform",
-    subtitle: "Secure banking infrastructure.",
+    title: "Restaurant Management",
+    subtitle: "POS & ordering for 15+ branches in Lahore.",
     size: "lg",
-    slug: "fintech-platform",
+    slug: "restaurant-management",
+  },
+  {
+    title: "School ERP System",
+    subtitle: "Managing 3,200+ students across 4 campuses.",
+    size: "md",
+    slug: "school-erp",
+  },
+  {
+    title: "Real Estate Portal",
+    subtitle: "5,800+ property listings in Karachi.",
+    size: "md",
+    slug: "real-estate-portal",
+  },
+  {
+    title: "E-commerce Ecosystem",
+    subtitle: "High-scale retail solution.",
+    size: "md",
+    slug: "ecommerce-ecosystem",
   },
   {
     title: "AI Healthcare Agent",
@@ -15,10 +33,10 @@ const CASE_STUDIES = [
     slug: "ai-healthcare-agent",
   },
   {
-    title: "E-commerce Ecosystem",
-    subtitle: "High-scale retail solution.",
+    title: "FinTech Platform",
+    subtitle: "Secure banking infrastructure.",
     size: "md",
-    slug: "ecommerce-ecosystem",
+    slug: "fintech-platform",
   },
 ] as const;
 

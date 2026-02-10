@@ -118,13 +118,14 @@ export function HeroSection() {
         </p>
 
         <div className="flex flex-col items-center gap-4 sm:flex-row">
-          <button
+          <a
+            href="#work"
             data-hover="true"
             className="group flex items-center gap-2 rounded-[24px] bg-teal px-8 py-4 text-sm font-semibold text-background transition-all hover:shadow-[0_0_40px_rgba(0,245,255,0.3)]"
           >
             Explore Our Work
             <ChevronDown className="h-4 w-4 rotate-[-90deg] transition-transform group-hover:translate-x-1" />
-          </button>
+          </a>
           <a
             href="#process"
             data-hover="true"

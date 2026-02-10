@@ -63,9 +63,10 @@ export default function AIHealthcareAgentPage() {
               Challenge
             </h2>
             <p className="leading-relaxed text-muted-foreground">
-              A major hospital network struggled with patient triage bottlenecks, leading to 
-              long wait times and delayed care. Manual triage processes were inconsistent and 
-              couldn't scale with patient volume, especially during peak hours.
+              A clinic chain in Lahore struggled with patient appointment scheduling and 
+              initial symptom screening. Receptionists were overwhelmed with calls, leading 
+              to missed appointments and patient frustration. They needed an automated solution 
+              that could handle patient queries in both English and Urdu.
             </p>
           </div>
 
@@ -119,22 +120,21 @@ export default function AIHealthcareAgentPage() {
             </h2>
             <p className="mb-4 leading-relaxed text-muted-foreground">
               The AI healthcare agent reduced triage time by 75% while maintaining 95% accuracy 
-              in urgency assessment. Patients receive immediate attention, and healthcare staff 
-              can focus on critical cases. The system operates 24/7, handling thousands of 
-              patient interactions daily.
+              in urgency assessment. The chatbot handles 400+ patient conversations daily, 
+              freeing up reception staff to focus on in-person patients.
             </p>
             <ul className="space-y-3 text-muted-foreground">
               <li className="flex items-start gap-3">
                 <span className="mt-1.5 h-1.5 w-1.5 rounded-full bg-teal" />
-                <span>Average triage time reduced from 15 minutes to 4 minutes</span>
+                <span>Average appointment booking time reduced from 10 minutes to 2 minutes</span>
               </li>
               <li className="flex items-start gap-3">
                 <span className="mt-1.5 h-1.5 w-1.5 rounded-full bg-teal" />
-                <span>Zero HIPAA violations with comprehensive audit trails</span>
+                <span>60% reduction in missed appointments with SMS reminders</span>
               </li>
               <li className="flex items-start gap-3">
                 <span className="mt-1.5 h-1.5 w-1.5 rounded-full bg-teal" />
-                <span>Improved patient satisfaction scores by 40%</span>
+                <span>Bilingual support in English and Urdu</span>
               </li>
             </ul>
           </div>
